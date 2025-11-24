@@ -27,11 +27,9 @@ GitHub Profile
 
 ### :woman_technologist: About Me :
 I am a SysAdmin <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Italy.
-- :telescope: I work as a Microsoft Senior Engineer at Reti SpA in the Practice Cloud team.
+- :telescope: I work as a Microsoft Senior Engineer
 
 - :seedling: Exploring Content Publishing.
-
-- :zap: In my free time, I ride a road bike and follow my son's basketball games
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/matteomora/)
 
